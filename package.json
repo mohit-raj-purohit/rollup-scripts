@@ -2,8 +2,7 @@
   "name": "rollup-scripts",
   "version": "0.0.113",
   "description": "Rollup scripts is a zero configuration compiler and bundler",
-  "main": "dist/umd/index.js",
-  "module": "dist/esm/index.mjs",
+  "main": "src/index.js",
   "bin": {
     "rollup-scripts": "./bin/index.js"
   },
